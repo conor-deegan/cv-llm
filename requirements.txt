@@ -1,0 +1,7 @@
+Flask
+gunicorn
+chromadb
+langchain
+openai
+tiktoken
+flask_limiter

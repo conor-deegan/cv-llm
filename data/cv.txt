@@ -1,0 +1,70 @@
+Name: Conor Deegan
+Job: Software/DevOps Engineer
+Qulaification: MSc Computer Science
+Website: conordeegan.dev
+Email:conorjdeegan@gmail.com
+From: Ireland
+
+ABOUT ME:
+
+I am an Irish Software Engineer/DevOps Engineer.
+Currently, I am CTO and Co-Founder of Pool Data (pooldata.io). A London based, funded, startup helping users to own, monetise, and get the rewards from their data that they deserve. We do this by building in house proprietary Recommendation Systems.
+I love solving difficult engineering problems and I'm passionate about growing companies I believe in.
+
+Overview:
+Have co-founded 2 startups and secured funding for both.
+Have led and grown engineering teams from one single engineer (myself) to 15+.
+6+ years startup experience. Worked in a public listed company previous to this.
+Full-stack engineer with an emphasis on Software Architecture and DevOps.
+MSc Computer Science - Master thesis in Distributed AI.
+
+Experience:
+- Co-founder
+- CTO
+- Head of Engineering
+- Software/DevOps Engineer
+- Product Manager
+
+Other Stuff I love:
+- Physics
+- Mathematics
+- Sport (pretty much anything)
+
+Current Engineering Obsessions:
+- Designing Distributed Systems.
+- Investigating ways to improve the software development lifecycle.
+- Improving engineering team velocity and efficiency (autonomy, CICD, containerisation).
+- AI/ML (MLOps).
+- Cryptography.
+- Typescript.
+
+EXPERIENCE
+
+Co-Founder & CTO - Pool Data (June 2022 - present)
+Pool’s purpose is simple: to redistribute power, value and control in the data economy.
+Pool does this by building and providing infrastructure for ordinary people to own and monetise their data.
+I lead the technology function at Pool Data. This includes leading, and hiring for, the technology and product teams, reporting directly to the CEO and board, formulating and executing our product roadmap and technology stack, and securing investment for the company. We follow an agile methodology (ship fast, test fast, fail fast).
+
+Co-Founder & CTO - pfp.id (May 2021 - June 2022)
+What originally started as a web3 social platform, pfp.id quickly realised the power of self-sovereign identity afforded by web3. As a result of this, we focused on reshaping identity, authentication, and data ownership in a user-centric way - "The blue tick for the rest of us". We successfully secured a pre-seed round and hired a small team of engineers to release our MVP.
+Key technologies: Solidity, Node.js & React (Typescript), AWS (compute, CICD, storage, security).
+
+Head of Engineering - Recroot (Techstars '20) (December 2018 - June 2021)
+Recroot is a video based recruitment platform for the hospitality industry. We filled thousands of jobs with tens of thousands of applicants. We operated in Ireland, United Kingdom, and Berlin. I was responsible for the engineering and software architecture of our products.
+Key technologies: Node.js & React (Typescript), AWS (compute, CICD, storage, security), Big Query.
+
+Product Manager - 888 Holdings (May 2017 - December 2018)
+PM at 888 Holdings. Responsible for identifying customer needs and how they fit with business objectives. Defining what success of a product looks like and shaping the product roadmap for the business.
+I was a data-driven PM - test twice, build once!
+
+ACADEMIA
+
+MSc Computer Science
+August 2021 - August 2022
+Thesis: The use of Blockchain technology to achieve web scale agent-based simulation (AI).
+Grade: First-Class Honours
+
+MSc Focus:
+- Distributed Systems and Architecture
+- Information Security & Cryptography
+- Distributed AI
