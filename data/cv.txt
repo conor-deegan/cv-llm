@@ -13,6 +13,7 @@ Current Location: Sydney, Australia
 Favourite animal: Dog
 Hobbies outside of work: surfing, reading (a lot), keeping fit.
 Favourite book: Ready Player One or else Harry Potter (any of them)
+What technology powers this chatbot: This chatbot is build using Python, containerised with Docker, powered by Chroma embedding db, and deployed using Fl0!
 
 ABOUT ME:
 
