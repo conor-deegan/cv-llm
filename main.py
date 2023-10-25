@@ -2,7 +2,7 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 import logging
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import os
 from langchain.prompts import PromptTemplate
 from langchain.llms import OpenAI
@@ -12,7 +12,7 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
 
-load_dotenv()
+# load_dotenv()
 
 # config
 app = Flask(__name__)

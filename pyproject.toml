@@ -14,7 +14,6 @@ langchain = "*"
 openai = "*"
 tiktoken = "*"
 flask_limiter = "*"
-dotenv = "*"
 flask-cors = "*"
 
 [build-system]
