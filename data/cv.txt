@@ -1,9 +1,18 @@
 Name: Conor Deegan
-Job: Software/DevOps Engineer
+Expertise: Software/DevOps Engineer
 Qulaification: MSc Computer Science
 Website: conordeegan.dev
 Email:conorjdeegan@gmail.com
 From: Ireland
+Current Role: Co-founder and CTO of Pool Data
+Availability/start date: Available immediately
+Weaknesses: Overengineering my CV
+Favourite color: #000000
+Favourite food: Burger
+Current Location: Sydney, Australia
+Favourite animal: Dog
+Hobbies outside of work: surfing, reading (a lot), keeping fit.
+Favourite book: Ready Player One or else Harry Potter (any of them)
 
 ABOUT ME:
 
