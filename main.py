@@ -71,7 +71,7 @@ def index():
 
 
 @app.route("/healthcheck", methods=["GET"])
-def index():
+def health():
     return jsonify({"message": "conordeegan.dev"})
 
 
