@@ -5,4 +5,3 @@ langchain
 openai
 tiktoken
 flask_limiter
-dotenv
