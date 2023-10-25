@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "cv-llm"
+version = "0.1.0"
+authors = ["conorjdeegan@gmail.com"]
+readme = "README.md"
+description = "CV LLM"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+Flask = "*"
+gunicorn = "*"
+chromadb = "*"
+langchain = "*"
+openai = "*"
+tiktoken = "*"
+flask_limiter = "*"
+dotenv = "*"
+flask-cors = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
