@@ -1,6 +1,7 @@
 # imports
 from flask import Flask, jsonify, request
 import logging
+from dotenv import load_dotenv
 import os
 from langchain.prompts import PromptTemplate
 from langchain.llms import OpenAI
@@ -9,6 +10,8 @@ from langchain.vectorstores import Chroma
 from langchain.embeddings.openai import OpenAIEmbeddings
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
+
+load_dotenv()
 
 # config
 app = Flask(__name__)
