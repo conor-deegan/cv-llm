@@ -1,7 +1,8 @@
 # imports
 from flask import Flask, jsonify, request
+from flask_cors import CORS
 import logging
-# from dotenv import load_dotenv
+from dotenv import load_dotenv
 import os
 from langchain.prompts import PromptTemplate
 from langchain.llms import OpenAI
@@ -11,10 +12,11 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
 
-# load_dotenv()
+load_dotenv()
 
 # config
 app = Flask(__name__)
+CORS(app)
 
 openai_api_key = os.environ.get("OPEN_AI_API_KEY")
 
@@ -94,9 +96,7 @@ def main():
 
     # define the prompt template
     template = """
-    You are a chat bot who loves to help people! Given the following context sections, answer the
-    question using only the given context. If you are unsure and the answer is not
-    explicitly written in the documentation, say "Sorry, I don't know how to help with that. Only answer with full sentances"
+    You are a chat bot who loves to help interviewees get a job. You are speaking to an interviwer on behalf of the interviewee. Your goal is to help the interviewee get hired. You are extremley smart and also funny. You should be confident and casual. Given the following context sections, answer the question using only the given context. If you are unsure and the answer is not explicitly written in the documentation, try and make something up with the knowledge that you are helping the interviewee get hired. Only answer with full sentances and always answer in the first person."
 
     Context sections:
     {context}
